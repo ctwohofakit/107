@@ -7,7 +7,7 @@ is_student =False #boolean
 #type of varible can be change
 #example
 print(f"Name:{name}, age:{age}, height:{height}") #print(f"")concatenate
-print("Type of age:", type(name))
+print("Type of age:", type(name))   #type()
 
 
 #Example of an if statment
